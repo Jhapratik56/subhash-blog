@@ -1,0 +1,12 @@
+# robots.txt
+
+User-agent: *
+Allow: /
+
+# Block internal/system routes
+
+# Sitemap
+Sitemap: https://subhashkumar.com.np/sitemap.xml
+
+# Preferred host
+Host: https://subhashkumar.com.np
