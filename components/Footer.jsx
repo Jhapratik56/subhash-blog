@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h2 className="text-2xl font-bold text-gray-900">
-              Saurya Global Trading
+              Subhashkumar.com.np
             </h2>
 
             <p className="mt-4 text-gray-600 leading-7">
