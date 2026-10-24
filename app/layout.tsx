@@ -115,22 +115,8 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className="bg-gray-50 text-gray-900 antialiased">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6514549878313017"
-     crossorigin="anonymous"></script>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6514549878313017"
-     crossorigin="anonymous"></script>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6514549878313017"
-     crossorigin="anonymous"></script>
 <!-- Sidebar - Top Display -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6514549878313017"
-     data-ad-slot="9517998023"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
         <Navbar />
 
         <main className="min-h-screen">
