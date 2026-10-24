@@ -108,8 +108,6 @@ return ( <html lang="en" suppressHydrationWarning> <body className="bg-gray-50 t
        crossOrigin="anonymous"
        strategy="afterInteractive"
      />
-
-```
     {/* Sidebar - Top Display */}
     <Navbar />
 
@@ -121,7 +119,5 @@ return ( <html lang="en" suppressHydrationWarning> <body className="bg-gray-50 t
     <SpeedInsights />
   </body>
 </html>
-```
-
 );
 }
